@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <!--Change to your movie-->
+    <movie> 
+        <title>Beauty and the Beast</title>
+        <type>Fantasy</type>
+        <year>2017</year>
+        <country>United States</country>
+        <director>Bill Condon</director>
+        <studio>Walt Disney Studios Motion Pictures</studio>
+        <rating>7.6</rating>
+        <actor>
+            <a>Emma Watson</a>
+            <a>Dan Stevens</a>
+            <a>Luke Evans</a>
+        </actor>
+        <description>เรื่องย่อ : Beauty and the Beast (2017) โฉมงามกับเจ้าชายอสูร Beauty and the beast ในเวอร์ชั่น Live Action การแสดงของ เอ็มม่า วัตสัน ในบทของ เบลล์ สาวชาวบ้านที่ได้เข้าไปในปราสาทของอสูร เพื่อแลกกับการช่วยชีวิตของพ่อ นอกจากนี้ยังเผยให้เห็นปราสาทและด้านในอีกหลายฉากรวมถึงสกอร์ภาพยนตร์ที่คุ้นเคยจากเวอร์ชั่นอนิเมชั่นในปี 1991
+        </description>
+        <price>299</price>
+        <video>https://www.youtube.com/embed/e3Nl_TCQXuw</video>
+		<image>pic/beautyposter.jpg</image>
+    </movie>
+    
+    <movie>
+        <title>The Walking Dead SS1</title>
+        <type>thriller</type>
+        <year>2010</year>
+        <country>United States</country>
+        <director>David Tattersall</director>
+        <studio>Universal studios Hollywood</studio>
+        <rating>8.8</rating>
+        <actor>
+            <a>Andrew Lincoln</a>
+            <a>Norman Reedus</a>
+            <a>Melissa McBride</a>
+        </actor>
+        <description>เรื่องย่อ : The Walking Dead Season 1 ล่าสยอง ทัพผีดิบ ปีที่ 1
+            เรื่องราว The Walking Dead Season 1 เริ่มต้นที่ ‘ริค’ ผู้ช่วยนายอำเภอ ถูกยิงจนได้รับบาดเจ็บสาหัสจากอาชญากรรมทำให้อาการโคม่า หลังจากนอนสลบอยู่ในโรงพยาบาล ก็เกิดเหตุการณ์แปลกประหลาดขึ้น นั่นคือ เกิดการแพร่ระบาดของเชื้อที่ไม่สามารถระบุได้แน่ชัด รู้แต่เพียงว่าคนที่ติดเชื้อจะเข้ารุมฉีกทึ้งร่างคนเป็นๆ จนไม่เหลือชิ้นดี ซึ่งเหล่าผู้รอดชีวิตในเหตุการณ์ครั้งนี้ต่างพากันเอาตัวรอด หลังจากเวลาผ่านไปหลายสัปดาห์ ริคก็ได้ฟื้นขึ้นมาเจอกับสภาพโรงพยาบาลร้าง และริคก็ได้พบว่าภรรยาและลูกของเขาหายไป ริคจึงออกตามหา จนมาเจอ ‘มอร์แกน’ และลูกชาย ทั้ง 2 อธิบายสถานการณ์ที่เกิดขึ้นทั้งหมดให้ริคฟัง ริคและมอร์แกนได้ไปที่สถานีตำรวจเพื่อหาอาวุธป้องกันตัว
+        </description>
+        <price>899</price>
+        <video>https://www.youtube.com/embed/ufsJdHz-uP4</video>
+		<image>pic/walkingposter.jpg</image>
+    </movie>
+    
+    
+    <movie> 
+        <title>Descendant Of the Sun</title>
+        <type>Action</type>
+        <year>1983</year>
+        <country>Hongkong</country>
+        <director>Yuen Chor</director>
+        <studio>Shawbrother</studio>
+        <rating>8.2</rating>
+        <actor>
+            <a>Derek Yee Tung-Sing</a>
+            <a>Cherie Chung</a>
+        </actor>
+        <description>This tale from the Shaw Brothers is connected to the story of the Monkey King. A powerful child is borng. The child must be protected from the evil forces lurking within the fairy realm. There's lots of magic and fighting. The final battle takes place in a cemetery and some zombies rise from the graves and take a bit out of one of the characters.
+        </description>
+        <price>299</price>
+        <video>https://www.youtube.com/embed/Kp0GzM59Slo</video>
+		<image>pic/descendantposter.jpg</image>
+    </movie>
+    
+    <movie> 
+        <title>Preduce 101 SS2</title>
+        <type>Show</type>
+        <year>2017</year>
+        <country>Korea</country>
+        <director>Mcountdown</director>
+        <studio>M-Net</studio>
+        <rating>7.6</rating>
+        <actor>
+            <a>Lai Kuan-lin</a>
+            <a>Yoo Hoe-seung</a>
+            <a>Yu Seon-ho</a>
+        </actor>
+        <description>โปรดิวซ์ 101 เป็นรายการเรียลลิตีค้นหากลุ่มศิลปินชาย ของประเทศเกาหลีใต้ ออกอากาศในปี พ.ศ. 2560 ทางสถานีโทรทัศน์เอ็มเน็ต ซึ่งรายการนี้เป็นรายการที่ใช้งบประมาณในการสร้างสูงที่สุดเป็นอันดับ 2 ของสถานีโทรทัศน์เอ็มเน็ตตั้งแต่ผลิตรายการมา โดยใช้งบประมาณในการผลิตไปประมาณ 4,000 ล้านวอน (หรือประมาณ 3.4 ล้านดอลลาร์) โดยจะมีการคัดเด็กฝึกหัดออกในแต่ละอาทิตย์ จนเหลือเด็กฝึกหัด 11 คนสุดท้าย ที่จะได้เดบิวต์เป็นวง i.o.i โดยจะทำสัญญาเดบิวต์เป็นเวลา 1 ปี
+        </description>
+        <price>1100</price>
+        <video>https://www.youtube.com/embed/2oj6LPCtCYI</video>
+		<image>pic/produceposter.png</image>
+    </movie>
+
+    
+    
+    <movie>
+        <title>17 Again</title>
+        <type>comedy</type>
+        <year>2009</year>
+        <country>United States</country>
+        <director>Burr Steers</director>
+        <studio>Chapman/Leonard Studio Equipment</studio>
+        <rating>6.4</rating>
+        <actor>
+            <a>Zac Efron</a>
+            <a>Leslie Mann</a>
+            <a>Thomas Lennon</a>
+        </actor>
+        <description>เรื่องย่อ : 17 Again 17 ขวบอีกครั้ง.. กลับมาแก้ฝันให้เป็นจริง 
+            ชั้นเรียนในปี 1989 ไมค์ โอ'ดอนแนล (แซค เอฟรอน) เป็นดาวรุ่งของทีมบาสเกตบอลไฮสคูลโดยมีผองเพื่อนสนับสนุน รวมทั้งเขาเองยังมองเห็นอนาคตอันสดใสอยู่ใกล้แค่เอื้อม แต่เขากลับตัดสินใจโยนทุกสิ่งทุกอย่างทิ้งเพื่อที่จะไปร่วมชีวิตกับสการ์เล็ตแฟนสาวและลูกน้อยที่เขาทั้งสองคนเพิ่งรู้ว่ากำลังจะมาเกิด 
+            เกือบยี่สิบปีให้หลัง วันวานอันหวานชื่นของไมค์ (แมทธิว เพอร์รี่) กลับถูกทิ้งเอาไว้เบื้องหลัง การแต่งงานของเขากับสการ์เล็ต (เลสลี่ แมนน์) ต้องจบลง ตัวเขาถูกมองข้ามในการได้รับการพิจารณาเลื่อนตำแหน่งในที่ทำงาน ลูกของเขาพากันคิดว่าเขาเป็นไอ้ขี้แพ้ และตัวเขาเองก็ถูกจำกัดอยู่ในแวดวงที่มีเพียงเพื่อนซี้ร่วมชั้นมัธยมคนเดียว ที่เป็นมหาเศรษฐีแต่กลับละทิ้งสังคมและคลั่งเทคโนโลยี่อย่างเนด (โธมัส เลนนอน) เพียงคนเดียวเท่านั้น  
+            แต่ไมค์ก็ได้รับโอกาสอีกครั้งในชีวิตเมื่อเขาได้ถูกเปลี่ยนร่างกลับไปเมื่ออายุ 17  ปีอีกครั้งอย่างน่าอัศจรรย์ และไมค์ก็หวนรำลึกถึงหลายปีที่รุ่งโรจน์ ทำให้ไมค์อาจจะสูญเสียสิ่งที่ดีที่สุดที่ได้เคยเกิดขึ้นกับเขา
+        </description>
+        <price>499</price>
+        <video>https://www.youtube.com/embed/2wn6pAIRjjY</video>
+		<image>pic/againposter.jpg</image>
+
+</movie>
+
+
+</catalog>
